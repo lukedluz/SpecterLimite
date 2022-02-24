@@ -1,0 +1,7 @@
+name: SpecterLimite
+main: com.lucas.specterlimite.Main
+version: 1.0
+authors: [Specter]
+commands:
+  limite:
+  
